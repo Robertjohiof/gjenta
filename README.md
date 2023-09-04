@@ -1,0 +1,2 @@
+# gjenta
+øvelse gjør mester
